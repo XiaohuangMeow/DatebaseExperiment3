@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa09a97-9927-4751-bb43-58a423d0f6a4" name="Default Changelist" comment="" />
+    <list default="true" id="2fa09a97-9927-4751-bb43-58a423d0f6a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Drop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Drop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Insert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Select.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Select.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseExperiment3/TableOperation/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/UserOperation/PersonalInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseExperiment3/UserOperation/PersonalInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseExperiment3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/com/company/output.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseExperiment3/com/company/output.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/gui/GuiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/gui/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/gui/Login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/gui/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseExperiment3/gui/Register.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui/GuiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui/Login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui/Register.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableOperation/Drop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TableOperation/Drop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableOperation/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TableOperation/Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableOperation/Select.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TableOperation/Select.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableOperation/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TableOperation/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserOperation/PersonalInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserOperation/PersonalInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/output.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,43 +39,46 @@
     <session id="42179611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="59" />
           <entry key="fxml" value="7" />
-          <entry key="java" value="12851" />
+          <entry key="java" value="13040" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12851" />
+          <entry key="JAVA" value="13040" />
           <entry key="PLAIN_TEXT" value="59" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="3" />
+          <entry key="class" value="4" />
           <entry key="form" value="5" />
           <entry key="fxml" value="2" />
-          <entry key="java" value="132" />
+          <entry key="java" value="166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
+          <entry key="CLASS" value="4" />
           <entry key="GUI_DESIGNER_FORM" value="5" />
-          <entry key="JAVA" value="132" />
+          <entry key="JAVA" value="166" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -60,54 +89,100 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/User/system.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="424" column="13" selection-start-line="424" selection-start-column="13" selection-end-line="424" selection-end-column="13" />
+            <state relative-caret-position="6213">
+              <caret line="334" column="44" selection-start-line="334" selection-start-column="44" selection-end-line="334" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#register#0;class#system#0" />
-                <element signature="method#loginin#0;class#system#0" />
-                <element signature="method#emailOperation#0;class#system#0" />
-                <element signature="method#experienceOperation#0;class#system#0" />
-                <element signature="method#friendOperation#0;class#system#0" />
-                <element signature="method#logOperation#0;class#system#0" />
-                <element signature="method#logReplyOperation#0;class#system#0" />
-                <element signature="method#logShareOperation#0;class#system#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gui/Register.java">
+        <entry file="file://$PROJECT_DIR$/src/UserOperation/PersonalInformation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state relative-caret-position="171">
+              <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Gui/GuiTest.java">
+        <entry file="file://$PROJECT_DIR$/src/TableOperation/Insert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="228">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gui/Login.java">
+        <entry file="file://$PROJECT_DIR$/src/UserOperation/LogShare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="361">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UserOperation/LogReply.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TableOperation/Drop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TableOperation/Update.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TableOperation/Select.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3743">
+              <caret line="201" column="29" selection-start-line="201" selection-start-column="29" selection-end-line="201" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,6 +198,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,17 +219,10 @@
         <option value="$PROJECT_DIR$/src/user/register.java" />
         <option value="$PROJECT_DIR$/src/UserOperation/ConnectDatabase.java" />
         <option value="$PROJECT_DIR$/src/User/register.java" />
-        <option value="$PROJECT_DIR$/src/UserOperation/PersonalInformation.java" />
         <option value="$PROJECT_DIR$/src/UserOperation/EducationExperience.java" />
         <option value="$PROJECT_DIR$/src/UserOperation/WorkExperience.java" />
         <option value="$PROJECT_DIR$/src/UserOperation/LogShare.java" />
-        <option value="$PROJECT_DIR$/src/TableOperation/Drop.java" />
         <option value="$PROJECT_DIR$/src/UserOperation/LogReply.java" />
-        <option value="$PROJECT_DIR$/src/TableOperation/Insert.java" />
-        <option value="$PROJECT_DIR$/src/TableOperation/Update.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/output.java" />
-        <option value="$PROJECT_DIR$/src/TableOperation/Select.java" />
         <option value="$PROJECT_DIR$/src/User/system.java" />
         <option value="$PROJECT_DIR$/src/gui/Te.form" />
         <option value="$PROJECT_DIR$/src/gui/r123.form" />
@@ -165,6 +236,13 @@
         <option value="$PROJECT_DIR$/src/Gui/Login.java" />
         <option value="$PROJECT_DIR$/src/Gui/Register.java" />
         <option value="$PROJECT_DIR$/src/Gui/GuiTest.java" />
+        <option value="$PROJECT_DIR$/src/TableOperation/Update.java" />
+        <option value="$PROJECT_DIR$/src/TableOperation/Drop.java" />
+        <option value="$PROJECT_DIR$/src/UserOperation/PersonalInformation.java" />
+        <option value="$PROJECT_DIR$/src/TableOperation/Insert.java" />
+        <option value="$PROJECT_DIR$/src/TableOperation/Select.java" />
+        <option value="$PROJECT_DIR$/src/com/company/output.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -179,7 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,15 +264,45 @@
               <item name="DatabaseExperiment3" type="b2602c69:ProjectViewProjectNode" />
               <item name="DatabaseExperiment3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DatabaseExperiment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseExperiment3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DatabaseExperiment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseExperiment3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DatabaseExperiment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseExperiment3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TableOperation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DatabaseExperiment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseExperiment3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="User" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DatabaseExperiment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DatabaseExperiment3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UserOperation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554711037499" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555119053412" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -218,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuiTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GuiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gui.GuiTest" />
       <module name="DatabaseExperiment3" />
@@ -276,9 +383,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.GuiTest" />
         <item itemvalue="Application.SocialNetwork" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SwingLoginExample" />
       </list>
     </recent_temporary>
@@ -299,7 +406,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.1735925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.1816354" />
       <window_info id="Structure" order="1" sideWeight="0.5023585" side_tool="true" weight="0.16957104" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,7 +415,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4002829" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39943343" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,13 +469,6 @@
     <entry file="file://$PROJECT_DIR$/src/UserOperation/User.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/SwingLoginExample.java" />
     <entry file="file://$PROJECT_DIR$/src/type.java" />
-    <entry file="file://$PROJECT_DIR$/src/UserOperation/ConnectDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UserOperation/Friend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -380,53 +480,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/choice.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserOperation/LogShare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserOperation/EducationExperience.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserOperation/LogReply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserOperation/WorkExperience.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -434,51 +487,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserOperation/PersonalInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TableOperation/Drop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UserOperation/Log.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TableOperation/Update.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TableOperation/Insert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -501,20 +513,39 @@
     <entry file="file://$PROJECT_DIR$/src/gui/t.java" />
     <entry file="file://$PROJECT_DIR$/src/gui/t.form" />
     <entry file="file://$PROJECT_DIR$/src/gui/SocialNetwork.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Gui/Login.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/Gui/Register.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/Gui/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/Gui/GuiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Gui/Register.java" />
+    <entry file="file://$PROJECT_DIR$/src/UserOperation/WorkExperience.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="285">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/output.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="257">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
           <folding>
             <element signature="e#370#371#0" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
@@ -522,77 +553,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TableOperation/Select.java">
+    <entry file="file://$PROJECT_DIR$/src/UserOperation/ConnectDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="228" column="5" selection-start-line="228" selection-start-column="5" selection-end-line="228" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserOperation/EducationExperience.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gui/Login.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gui/Register.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gui/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/User/system.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="424" column="13" selection-start-line="424" selection-start-column="13" selection-end-line="424" selection-end-column="13" />
+        <state relative-caret-position="6213">
+          <caret line="334" column="44" selection-start-line="334" selection-start-column="44" selection-end-line="334" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#register#0;class#system#0" />
-            <element signature="method#loginin#0;class#system#0" />
-            <element signature="method#emailOperation#0;class#system#0" />
-            <element signature="method#experienceOperation#0;class#system#0" />
-            <element signature="method#friendOperation#0;class#system#0" />
-            <element signature="method#logOperation#0;class#system#0" />
-            <element signature="method#logReplyOperation#0;class#system#0" />
-            <element signature="method#logShareOperation#0;class#system#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gui/Register.java">
+    <entry file="file://$PROJECT_DIR$/src/UserOperation/PersonalInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        <state relative-caret-position="171">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gui/GuiTest.java">
+    <entry file="file://$PROJECT_DIR$/src/UserOperation/LogShare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="361">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserOperation/LogReply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TableOperation/Drop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TableOperation/Update.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TableOperation/Select.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3743">
+          <caret line="201" column="29" selection-start-line="201" selection-start-column="29" selection-end-line="201" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TableOperation/Insert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

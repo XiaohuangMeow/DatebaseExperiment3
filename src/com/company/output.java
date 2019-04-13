@@ -27,7 +27,7 @@ public class output {
         System.out.println("7.概括上学经历");
         System.out.println("8.概括工作经历");
         System.out.println("9.兴趣");
-        System.out.println("10.所有类型");
+        System.out.println("10.所有兴趣类型");
         System.out.println("0.退出登录");
     }
 

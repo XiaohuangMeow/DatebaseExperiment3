@@ -13,13 +13,14 @@ import static User.system.register;
 public class Main {
 
     public static Connection conn=null;
-    public static int cnt=0;
+    public static int cnt=3;
     public static Scanner scanner=new Scanner(System.in);
 
 
     public static void main(String[] args) throws SQLException {
         conn=ConnectDatabase.getConn(conn);
-        cnt= Select.countUsers();
+//        cnt= Select.countUsers();
+//        System.out.println(cnt);
         conn.setAutoCommit(false);
         while (true) {
             output.login();

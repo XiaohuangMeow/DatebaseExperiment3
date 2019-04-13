@@ -12,8 +12,9 @@ import java.sql.SQLException;
 public class PersonalInformation {
 
     public static void register(String Username,String name, String sex, Date birth, String address, String password) throws SQLException {
-        Insert.InsertIntoPersonalInformation(Username, name, sex, birth, address, password, Main.cnt);
-        Insert.InsertIntoEmail(Main.cnt,Username);
+//        Insert.InsertIntoPersonalInformation(Username, name, sex, birth, address, password, Main.cnt);
+//        Insert.InsertIntoEmail(Main.cnt,Username);
+        Insert.Register(Username, name, sex, birth, address, password, Main.cnt,Main.cnt,Username);
         Main.cnt++;
     }
 

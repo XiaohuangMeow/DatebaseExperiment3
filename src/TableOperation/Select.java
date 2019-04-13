@@ -79,6 +79,7 @@ public class Select {
         }
     }
 
+    //连接
     public static void selectLogReply(int idLog) throws SQLException {
 //        sql="select idUser,content,PublishTime from logreply where idLog=?;";
         sql="select log.content,idLogReply,logreply.content,logreply.PublishTime\n" +
@@ -96,6 +97,7 @@ public class Select {
         }
     }
 
+    //连接
     public static void selectLogShare(int idUser) throws SQLException {
         sql="select log.content,idLogShare,logshare.CommentContent,ShareTime\n" +
                 "from logshare join log on logshare.idLog=log.idLog\n" +
@@ -191,6 +193,7 @@ public class Select {
         }
     }
 
+    //嵌套查询
     public static void noExperienceUser() throws SQLException {
         sql="select Username\n" +
                 "from personalinformation\n" +
@@ -205,6 +208,7 @@ public class Select {
         }
     }
 
+    //分组查询
     public static void countFriend() throws SQLException {
         sql="select idGroup,count(*)\n" +
                 "from friendgroup\n" +

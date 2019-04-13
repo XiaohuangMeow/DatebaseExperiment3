@@ -21,8 +21,13 @@ public class Update {
         pstmt.setString(4,address);
         pstmt.setString(5,password);
         pstmt.setString(6,Username);
-        pstmt.executeUpdate();
-    }
+        int judge=pstmt.executeUpdate();
+        if (judge>0){
+            Main.conn.commit();
+        }
+        else {
+            Main.conn.rollback();
+        }    }
 
     public static void UpdateEducationExperience(int idEducation,int idUser, String level, Date date,String school,String degree) throws SQLException {
         sql="update educationalexperience set level=?,date=?,school=?,degree=? where idEducation=?;";
@@ -38,8 +43,13 @@ public class Update {
         pstmt.setString(3,school);
         pstmt.setString(4,degree);
         pstmt.setInt(5,idEducation);
-        pstmt.executeUpdate();
-    }
+        int judge=pstmt.executeUpdate();
+        if (judge>0){
+            Main.conn.commit();
+        }
+        else {
+            Main.conn.rollback();
+        }    }
 
     public static void UpdateWorkExperience(int idWork,int idUser, String workplace, Date date, String position) throws SQLException {
         sql="update workexperience set WorkPlace=?,Date=?,Position=? where idWork=?;";
@@ -53,16 +63,26 @@ public class Update {
         pstmt.setDate(2,date);
         pstmt.setString(3,position);
         pstmt.setInt(4,idWork);
-        pstmt.executeUpdate();
-    }
+        int judge=pstmt.executeUpdate();
+        if (judge>0){
+            Main.conn.commit();
+        }
+        else {
+            Main.conn.rollback();
+        }    }
 
     public static void UpdateidGroup(int idGroup,int newidGroup) throws SQLException {
         sql="update friendgroup set idGroup=? where idGroup=?;";
         pstmt=Main.conn.prepareStatement(sql);
         pstmt.setInt(1,newidGroup);
         pstmt.setInt(2,idGroup);
-        pstmt.executeUpdate();
-    }
+        int judge=pstmt.executeUpdate();
+        if (judge>0){
+            Main.conn.commit();
+        }
+        else {
+            Main.conn.rollback();
+        }    }
 
     public static void UpdateLog(int idLog,String content) throws SQLException {
         sql="update log set LastUpdatedTime=?,content=? where idLog=?;";
@@ -72,7 +92,12 @@ public class Update {
         pstmt.setTimestamp(1,t);
         pstmt.setString(2,content);
         pstmt.setInt(3,idLog);
-        pstmt.executeUpdate();
-    }
+        int judge=pstmt.executeUpdate();
+        if (judge>0){
+            Main.conn.commit();
+        }
+        else {
+            Main.conn.rollback();
+        }    }
 
 }
